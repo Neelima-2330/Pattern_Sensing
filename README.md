@@ -33,5 +33,3 @@ The model is trained using a custom CNN with:
 - Categorical Crossentropy Loss
 - `ImageDataGenerator` for real-time data augmentation
 
-**Data:**  
-TFD Textile Dataset stored at:
