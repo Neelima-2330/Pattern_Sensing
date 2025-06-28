@@ -1,1 +1,10 @@
-
+tensorflow>=2.12,<2.20  # uses latest stable versions supported
+numpy>=1.19
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+Pillow
+streamlit
+jupyter
